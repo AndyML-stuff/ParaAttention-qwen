@@ -113,6 +113,8 @@ python3 first_block_cache_examples/run_hunyuan_video.py
 
 - [FLUX🚀](first_block_cache_examples/run_flux.py)
 - [HunyuanVideo🚀](first_block_cache_examples/run_hunyuan_video.py)
+- [QwenImage🚀](first_block_cache_examples/run_qwenimage.py)
+- [QwenImage-Edit🚀](first_block_cache_examples/run_qwenimage_edit.py)
 - [Mochi](first_block_cache_examples/run_mochi.py)
 - [CogVideoX](first_block_cache_examples/run_cogvideox.py)
 
